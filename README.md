@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neobradley&langs_count=10&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neobradley&show_icons=true&theme=tokyonight)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=afan0918&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
+
 <!--
 **neobradley/neobradley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
