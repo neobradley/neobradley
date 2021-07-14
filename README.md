@@ -1,4 +1,6 @@
-### Hi there 👋
+### HELLO THERE!
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neobradley" alt="neobradley" /> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neobradley&langs_count=10&show_icons=true&theme=dracula&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neobradley&show_icons=true&theme=dracula&show_owner=true&count_private=true)
