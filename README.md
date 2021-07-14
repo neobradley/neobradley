@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neobradley&label=PROFILE+VIEWS&color=blue&style=flat-square" alt="neobradley" /> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neobradley&langs_count=10&show_icons=true&theme=dracula&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neobradley&show_icons=true&theme=dracula&show_owner=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neobradley&langs_count=10&show_icons=true&theme=prussian&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neobradley&show_icons=true&theme=prussian&show_owner=true&count_private=true)
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=afan0918&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 <!--
