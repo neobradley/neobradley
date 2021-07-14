@@ -1,4 +1,4 @@
-<h2 align="center">### HELLO THERE!</h2>
+<h2 align="center">HELLO THERE!</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neobradley&show_icons=true&theme=prussian&show_owner=true&count_private=true)
 <!--[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neobradley&langs_count=10&show_icons=true&theme=prussian&layout=compact)-->
